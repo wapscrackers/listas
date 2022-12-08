@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://imgfz.com/i/DaeNvRM.png" group-title="TV COLOMBIA",COL | CARACOL HD 🇨🇴
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlmOeXy2o9snLjsBdJjaHhLM/ts 
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://imgfz.com/i/DaeNvRM.png" group-title="TV COLOMBIA",COL | CARACOL HD OP 2 🇨🇴
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrloD020Cri25GVBUQLCL_tmI/ts
+
+group,TV INFANTILES
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://imgfz.com/i/Da6Uhut.png",group-title="TV INFANTIL",CARTOON NETWORK
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrliK_9PTEnZQaARjG50S-6oLnLIk62iDG-qK7Ik3PFjLE/ts
+#EXTINF:-1 tvg-id="ext" group-title="TV INFANTIL",BABY FIRST | HD
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrljE76BrgcpJtENUc7mEOTqs/ts
+#EXTINF:-1 tvg-id="ext" group-title="TV INFANTIL",DISCOVERY KIDS | HD
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlrix3lTDpY0lcpUwdC8aCao/ts
+#EXTINF:-1 tvg-id="ext" group-title="TV INFANTIL",DISNEY JUNIOR | HD
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlgAxbuUAbFuvkLegBCk6TGA/ts
+#EXTINF:-1 tvg-id="ext" group-title="TV INFANTIL",ZOOMOO | HD
+http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlnkTMfSw6nryf0UNVnzkvL8/ts
+
+ext,HD | NICKELODEON,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlk3AweF4XHZBfIDafrmioirwY4fVVcB4IRMdR5cMs-xL/ts
+ext,HD | TOONCAST,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlr87k4bPo--csLi1Ub0ZNyM/ts
+ext,HD | BABY TV,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlp5RpFFzCnlYngofHWsDYQ4/ts
+ext,HD | BOING,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlosoknhZwjXD3_LNZ8oP6MM/ts
+ext,HD | CARTOONITO,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlnBhCj7XqqHWSOP1Zjsyyz4/ts
+ext,HD | DISNEY CHANNEL,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlvMAfyAC7PW12EKDARDJR00/ts
+ext,HD | TEENNICK,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlhNmVRMGvOr0ybqhzkRndEKDyoPZP32RuJPAEvsjoPBJ/ts
+ext,HD | NICK JUNIOR,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrluFkjXUrAPpbjN_4fEcRsBg/ts
+ext,HD | BITME,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrltqSsdWarYFhLna1-e5kW-om-pM4FdAJxVfgFeyk_hVX/ts
+ext,HD | LOCOMOTION,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrloGNJTJrgIu-BNUUTOytxxDP_zD6A0PMknDMXWdUK80W/ts
+ext,HD | LATINO KIDS,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlu9s-MWJO7Szq365o15M-Vp9iWBulyFJwxFedoH4D2ZO/ts
+ext,HD | ENERGEEK 2,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlu9s-MWJO7Szq365o15M-VrrJgrGKSInogSyM5EPERIQ/ts
+ext,HD | ENERGEEK 1,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlu9s-MWJO7Szq365o15M-VrzOGa_v9ZyvIa4r-k2Zn7C/ts
+ext,HD | ENERGEEK 3,http://xtreamgo.one:80/play/GbkZdRLlGO_bHBhTIDwrlu9s-MWJO7Szq365o15M-VpxJDZiwlP9tsyFif1p6Uc5/ts
+
+
+group,MOVIES
+
+#EXTINF:0 tvg-id="avi"tvg-logo="http://imgfz.com/i/w2zlGeI.png" group-title="MOVIES/INFANTIL",Minions (2015)
+http://zonamovie.live:8008/movie/rNRNSXWt4bCB/mvrVzhzZYy3F/169080.mkv
+#EXTINF:0, tvg-logo="http://imgfz.com/i/w2zlGeI.png" tvg-name="AMC"  group-title="CINE",AMC
+http://zonamovie.live:8008/movie/rNRNSXWt4bCB/mvrVzhzZYy3F/169080.mkv
+#EXTINF:0 tvg-id="avi"tvg-logo="http://imgfz.com/i/6Xuv3kB.png" group-title="PELICULAS/AVENTURA ",Avatar (2009)
+http://zonamovie.live:8008/movie/rNRNSXWt4bCB/mvrVzhzZYy3F/147420.mkv
+#EXTINF:0 tvg-id="avi" group-title="SERIES/AMAZON PRIME ",Upload S01 E01
+http://zonamovie.live:8008/series/rNRNSXWt4bCB/mvrVzhzZYy3F/182330.mkv
